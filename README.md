@@ -1,4 +1,6 @@
 ### Hi there 👋
+💬 Ask me about HMTL CSS JS BS...
+🌱 I’m currently learning Reactjs...
 
 <!--
 **nandha-techie/nandha-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
