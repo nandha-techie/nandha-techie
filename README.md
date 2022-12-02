@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Reactjs...
 - Love to develop responsive pages
 - ![image](https://user-images.githubusercontent.com/19306379/202677939-9c4dd3d6-8beb-43bd-8f0b-eb8897a798ad.png)
-
+- ![](https://komarev.com/ghpvc/?username=nandha-techie&color=brightgreen)
 
 <!--
 **nandha-techie/nandha-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
